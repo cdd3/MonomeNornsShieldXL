@@ -3,10 +3,11 @@
 ## Requirements 
 * [Raspberry Pi](https://www.raspberrypi.com/) - 3B, 3B+, 4B are supported. With the Pi 4B, the amount of RAM does not help/improve the norns experience. 1GB or 2GB models are great for this project  
 * microSD card - use a high quality brand such as SanDisk Class 10  
-* Power supply - Monome suggests using the official power supply for your model of Raspberry Pi. The Pi3B has a micro-USB power port and requires at least 2A and 5.25V ideally supplied through a cable with 24AWG or less. The Pi4 has a USB-C power port and 3A / 5.1V is recommended. Lower AWG = lower noise & more stable voltage delivery for better performance. Most consumer USB cables do not meet this spec, so please be sure to keep an eye out. You can also use a portable USB battery if it’s sufficiently large  
-
+* Power supply - Monome suggests using the official power supply for your model of Raspberry Pi. The Pi3B has a micro-USB power port and requires at least 2A and 5.25V ideally supplied through a cable with 24AWG or less. The Pi4 has a USB-C power port and 3A / 5.1V is recommended. Lower AWG = lower noise & more stable voltage delivery for better performance. Most consumer USB cables do not meet this spec, so please be sure to keep an eye out. You can also use a portable USB battery if it’s sufficiently large    
 
 ## Parts/Components (BOM - Bill of Materials) for pre-assembled boards
+
+__For SMD Parts - see Kicad files__.  
 
 If you purchase a kit from denki-oto some of these items may be included. 
 
